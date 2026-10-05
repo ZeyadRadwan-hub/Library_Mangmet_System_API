@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\repo\\customrepo\\contract\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\repo\\customrepo\\contract\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\repo\\customrepo\\contract\\iborrowingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\repo\\customrepo\\contract\\iborrowingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\repo\\customrepo\\contract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\repo\\customrepo\\contract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\repo\\customrepo\\contract\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\repo\\customrepo\\contract\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\repo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\repo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\repo\\cntract\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\repo\\cntract\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\database_context\\app_database_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\database_context\\app_database_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\model\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\model\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\library_mangment_case\\library_mangment_case\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345D031-A661-4716-B465-39537262A96A}|Library_Mangment_Case\\Library_Mangment_Case.csproj|solutionrelative:library_mangment_case\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBorrowingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IBorrowingRepository.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IBorrowingRepository.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IBorrowingRepository.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IBorrowingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:49:38.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IMemberRepository.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:49:26.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\ICategoryRepository.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:49:16.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IBookRepository.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Repo\\CustomRepo\\Contract\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:49:06.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:41:22.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:40:56.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App_Database_Context.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Database_Context\\App_Database_Context.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Database_Context\\App_Database_Context.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Database_Context\\App_Database_Context.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Database_Context\\App_Database_Context.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:25:47.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\Cntract\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Repo\\Cntract\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\Cntract\\IGenericRepo.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Repo\\Cntract\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:22:35.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\Implementation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Repo\\Implementation\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Repo\\Implementation\\GenericRepo.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Repo\\Implementation\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:21:54.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Model\\Borrowing.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Model\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Model\\Borrowing.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Model\\Borrowing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:15:41.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Model\\Member.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Model\\Member.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Model\\Member.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Model\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:14:46.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Model\\Book.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Model\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:10:35.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Library_Mangment_Case\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\Library_Mangment_Case\\Library_Mangment_Case\\Model\\Category.cs",
+              "RelativeToolTip": "Library_Mangment_Case\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:05:33.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
